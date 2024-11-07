@@ -1,3 +1,3 @@
 # Granicervaes_website
 
-[![Website_Granicervães]](https://granicervaes.pt)
+[Website_Granicervães](https://granicervaes.pt)
