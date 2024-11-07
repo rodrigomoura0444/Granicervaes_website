@@ -3,4 +3,4 @@
 [Website_Granicervães](https://granicervaes.pt)
 
 
-(./photo.png)
+[](./photo.png)
